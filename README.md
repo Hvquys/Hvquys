@@ -1,63 +1,53 @@
+# 👋 Xin chào, Tôi là Hoàng Văn Quý!
+*Sinh viên mới tốt nghiệp ngành CNTT, sẵn sàng trở thành Backend Developer*
 
-# 👋 Hi, I'm Hoàng Văn Quý!
+---
 
-- I am currently a student majoring in Information Technology.
-- I am passionate about fullstack development and have experience developing web applications, from backend using **C#** to frontend with **JavaScript**, **HTML**, and **CSS**.
-- I am constantly striving to learn new technologies and hone my skills through academic and personal projects.
+## 🎯 Mục Tiêu Nghề Nghiệp (Professional Objective)
 
-## 🛠️ Tech Stack
+Sinh viên mới tốt nghiệp với **GPA 3.26/4.0** và nền tảng vững chắc về Lập trình Hướng đối tượng (OOP).
 
-### 🔧 Backend
-- **Languages**: C#, ASP.NET Core
-- **Databases**: SQL Server, MySQL
-- **APIs**: RESTful, SOAP
-- **Other**: Entity Framework, LINQ, Azure Functions
+Tìm kiếm vị trí **Intern/Fresher Backend Developer** để áp dụng kinh nghiệm thực tế với **C# (.NET Core)** và **Java (Spring Boot)**. Cam kết học hỏi nhanh chóng, xây dựng các RESTful API hiệu suất và đóng góp tích cực vào đội ngũ phát triển.
 
-### 🌐 Frontend
-- **Languages**: JavaScript, HTML5, CSS3
-- **Frameworks**: React.js, Bootstrap
-- **UI/UX Libraries**: Tailwind CSS
+---
 
-### 🔗 Fullstack
-- **Tools**: Visual Studio, Visual Studio Code, Git, GitHub, Azure DevOps
-- **Package Managers**: npm, NuGet
-- **Cloud**: Azure (Basic level)
+## 💻 Kỹ Năng Kỹ Thuật (Technical Skills)
 
-## 📚 Projects
+| Lĩnh Vực | Chi Tiết |
+| :--- | :--- |
+| **Ngôn Ngữ Chính** | C#, Java |
+| **Framework** | **ASP.NET Core**, **Spring Boot** |
+| **Cơ Sở Dữ Liệu** | SQL Server, MySQL (Thiết kế DB cơ bản) |
+| **Giao Thức** | **RESTful API**, SOAP |
+| **Quy Trình Dev** | Git, GitHub (Thành thạo), GitHub Actions (Cơ bản về CI/CD) |
+| **Môi Trường Phát Triển** | Visual Studio, Visual Studio Code, Intellij IDEA|
 
-### [E-Commerce Web Application](https://github.com/Hvquys/ecommerce-app)
-A project simulating an e-commerce system where users can search/browse products, place orders, make payments through multiple methods, and leave reviews for products.
-- **Technologies**: ASP.NET Core Web API, React.js, Bootstrap.css, SQL Server
-- **Features**: Basic user authentication, role management, product listing, and responsive design.
+---
 
-### [Personal Portfolio Website](https://github.com/Hvquys/portfolio)
-A personal portfolio website showcasing my skills and projects.
-- **Technologies**: HTML5, CSS3, JavaScript, Tailwind CSS
+## ✨ Điểm Mạnh Chuyên Môn (Core Strengths)
 
-### [Simple Chat Application](https://github.com/Hvquys/simple-chat)
-A real-time chat application developed as part of my coursework.
-- **Technologies**: ASP.NET Core, SignalR, React.js
+*Phần này giúp nhà tuyển dụng hình dung rõ hơn về năng lực và thái độ của bạn.*
 
-## 🏆 Achievements
-- Built and deployed a small-scale e-commerce system as part of a team project in university.
-- Completed coursework in **Object-Oriented Programming**, **Data Structures**, and **Software Engineering** with distinction.
+### Kỹ Năng Cứng (Hard Skills)
+* **OOP & SOLID:** Nắm vững các nguyên tắc lập trình hướng đối tượng và hiểu biết cơ bản về nguyên tắc SOLID.
+* **Database:** Có kinh nghiệm thiết kế cơ sở dữ liệu quan hệ (ERD) và sử dụng các câu lệnh SQL phức tạp.
+* **API Development:** Có khả năng xây dựng các API cơ bản (CRUD) bằng ASP.NET Core và Spring Boot.
 
-## 🎓 Education
-- **Bachelor of Information Technology** (In progress)
-  - **University Name** (Expected Graduation: 2024)
-  - **GPA**: 3.12/4.0
+### Kỹ Năng Mềm (Soft Skills)
+* **Tinh thần tự học:** Chủ động tìm hiểu và làm chủ các công nghệ mới.
+* **Chủ động:** Đam mê giải quyết vấn đề và tự tìm kiếm giải pháp hiệu quả.
+* **Cầu tiến:** Sẵn sàng tiếp nhận phản hồi và cải thiện hiệu suất công việc.
 
-## 🎯 Goals for 2024
-- Improve my knowledge of cloud computing, particularly in **Azure** and **AWS**.
-- Participate in open-source projects and contribute to the developer community.
-- Deepen my understanding of fullstack development.
+---
 
-## 🛠️ Tools & Workflow
-- **IDE**: Visual Studio, Visual Studio Code
-- **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions
-- **Project Management**: Trello, Notion
+## 🎓 Học Vấn (Education)
 
-## 💬 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/Hvquys)
+* **Cử Nhân Công Nghệ Thông Tin**
+    * **Trường Đại Học Tài Nguyên và Môi Trường Hà Nội**
+    * **Điểm Trung Bình (GPA):** 3.26/4.0
+
+---
+
+## 📧 Kết Nối (Contact)
+
 - [Email](mailto:hvquys@gmail.com)
