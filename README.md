@@ -1,53 +1,80 @@
-# 👋 Xin chào, Tôi là Hoàng Văn Quý!
-*Sinh viên mới tốt nghiệp ngành CNTT, sẵn sàng trở thành Backend Developer*
+# 👋 Hi, I'm Hoàng Văn Quý
+
+Backend-oriented Software Engineer focused on building web applications with **ASP.NET Core Web API**, **ReactJS** and **PostgreSQL**.
+
+Passionate about backend development, RESTful API design, authentication systems and scalable application architecture.
 
 ---
 
-## 🎯 Mục Tiêu Nghề Nghiệp (Professional Objective)
+## 🚀 About Me
 
-Sinh viên mới tốt nghiệp với **GPA 3.26/4.0** và nền tảng vững chắc về Lập trình Hướng đối tượng (OOP).
-
-Tìm kiếm vị trí **Intern/Fresher Backend Developer** để áp dụng kinh nghiệm thực tế với **C# (.NET Core)** và **Java (Spring Boot)**. Cam kết học hỏi nhanh chóng, xây dựng các RESTful API hiệu suất và đóng góp tích cực vào đội ngũ phát triển.
-
----
-
-## 💻 Kỹ Năng Kỹ Thuật (Technical Skills)
-
-| Lĩnh Vực | Chi Tiết |
-| :--- | :--- |
-| **Ngôn Ngữ Chính** | C#, Java |
-| **Framework** | **ASP.NET Core**, **Spring Boot** |
-| **Cơ Sở Dữ Liệu** | SQL Server, MySQL (Thiết kế DB cơ bản) |
-| **Giao Thức** | **RESTful API**, SOAP |
-| **Quy Trình Dev** | Git, GitHub (Thành thạo), GitHub Actions (Cơ bản về CI/CD) |
-| **Môi Trường Phát Triển** | Visual Studio, Visual Studio Code, Intellij IDEA|
+- 🎓 Information Technology Graduate — Hanoi University of Natural Resources and Environment
+- 💻 Focused on Backend Development with .NET
+- 🔐 Interested in Authentication, Authorization and API Security
+- 🛠 Building fullstack applications using ASP.NET Core Web API + ReactJS
+- 📚 Continuous learner with strong self-learning mindset
 
 ---
 
-## ✨ Điểm Mạnh Chuyên Môn (Core Strengths)
+## 🧰 Tech Stack
 
-*Phần này giúp nhà tuyển dụng hình dung rõ hơn về năng lực và thái độ của bạn.*
+### Backend
+- C#
+- ASP.NET Core Web API
+- Entity Framework Core
+- RESTful API
+- JWT Authentication
 
-### Kỹ Năng Cứng (Hard Skills)
-* **OOP & SOLID:** Nắm vững các nguyên tắc lập trình hướng đối tượng và hiểu biết cơ bản về nguyên tắc SOLID.
-* **Database:** Có kinh nghiệm thiết kế cơ sở dữ liệu quan hệ (ERD) và sử dụng các câu lệnh SQL phức tạp.
-* **API Development:** Có khả năng xây dựng các API cơ bản (CRUD) bằng ASP.NET Core và Spring Boot.
+### Frontend
+- ReactJS
+- JavaScript
+- HTML/CSS
 
-### Kỹ Năng Mềm (Soft Skills)
-* **Tinh thần tự học:** Chủ động tìm hiểu và làm chủ các công nghệ mới.
-* **Chủ động:** Đam mê giải quyết vấn đề và tự tìm kiếm giải pháp hiệu quả.
-* **Cầu tiến:** Sẵn sàng tiếp nhận phản hồi và cải thiện hiệu suất công việc.
+### Database
+- PostgreSQL
+- SQL Server
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Postman
+- Swagger
+- Cloudinary
+- VNPay
 
 ---
 
-## 🎓 Học Vấn (Education)
+## ✨ Technical Highlights
 
-* **Cử Nhân Công Nghệ Thông Tin**
-    * **Trường Đại Học Tài Nguyên và Môi Trường Hà Nội**
-    * **Điểm Trung Bình (GPA):** 3.26/4.0
+- Build REST APIs with pagination, filtering and searching
+- Implement JWT authentication & refresh token flow
+- Role-based authorization (User/Admin)
+- Global exception handling & request validation
+- Design layered backend architecture (Controller / Service / Repository)
+- Dockerized local development environment
 
 ---
 
-## 📧 Kết Nối (Contact)
+## 📌 Featured Project
 
-- [Email](mailto:hvquys@gmail.com)
+### Craft Store E-commerce Platform
+Fullstack e-commerce platform built with ReactJS and ASP.NET Core Web API.
+
+#### Features
+- Product & category management
+- Shopping cart & checkout
+- JWT authentication & authorization
+- Admin Dashboard
+- VNPay payment integration
+- Email verification
+- Image upload with Cloudinary
+
+#### Tech Stack
+ReactJS • ASP.NET Core Web API • PostgreSQL • Docker • JWT • EF Core
+
+---
+
+## 📫 Contact
+
+- Email: hvquys@gmail.com
+- GitHub: https://github.com/Hvquys
